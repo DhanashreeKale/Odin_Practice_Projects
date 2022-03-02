@@ -90,6 +90,7 @@ h2 {
   text-align: center;
 }
 
+/*flex container*/
 .four-blocks {
   display: flex;
   justify-content: center;
@@ -121,6 +122,7 @@ h2 {
   height: 150px;
 }
 
+/*flex container*/
 .subtext {
   display: flex;
   justify-content: center;
